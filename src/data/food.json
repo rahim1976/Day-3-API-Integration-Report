@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Fresh Lime",
+    "category": "Beverages",
+    "price": 38.0,
+    "originalPrice": 45.0,
+    "tags": ["Healthy", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-1.png",
+    "description": "Refreshing fresh lime drink made with natural ingredients. Perfect for quenching your thirst on a hot day.",
+    "longDescription": "Our Fresh Lime drink is a refreshing beverage made with natural ingredients. Perfect for a hot day, this drink is both healthy and delicious. \n\n- Made with fresh lime juice\n- No artificial flavors or preservatives\n- Rich in Vitamin C\n- Perfect for hydration\n- Enjoy it chilled\n\nExperience the invigorating taste of freshly squeezed lime juice in every sip. Our Fresh Lime drink is crafted to provide a perfect balance of tangy and sweet flavors, making it an ideal choice for those who seek a natural and revitalizing beverage. Whether you're relaxing at home or on the go, this drink is sure to keep you refreshed and energized throughout the day.",
+    "available": true
+  },
+  {
+    "name": "Classic Burger",
+    "category": "Fast Food",
+    "price": 50.0,
+    "originalPrice": 60.0,
+    "tags": ["Popular", "Tasty"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-2.png",
+    "description": "Juicy beef burger with fresh lettuce, tomato, and cheese. A classic favorite for burger lovers.",
+    "longDescription": "Our Classic Burger is a favorite among our customers. Made with a juicy beef patty and fresh ingredients, it's a meal that satisfies every time. \n\n- 100% beef patty\n- Fresh lettuce, tomato, and cheese\n- Served with a side of fries\n- Perfect for lunch or dinner\n- Enjoy with your favorite beverage\n\nIndulge in the rich flavors of our Classic Burger, crafted with premium beef and topped with crisp lettuce, ripe tomatoes, and melted cheese. Each bite offers a delightful combination of textures and tastes, making it a perfect choice for any meal. Pair it with our crispy fries and a refreshing drink for a complete dining experience.",
+    "available": true
+  },
+  {
+    "name": "Sweet and Sour Chicken",
+    "category": "Chinese Food",
+    "price": 45.0,
+    "originalPrice": 55.0,
+    "tags": ["Popular", "Tasty"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-3.png",
+    "description": "Tender chicken pieces in a sweet and sour sauce. A delightful blend of flavors.",
+    "longDescription": "Our Sweet and Sour Chicken is a delicious dish that combines tender chicken pieces with a flavorful sweet and sour sauce. \n\n- Tender chicken pieces\n- Sweet and sour sauce\n- Served with steamed rice\n- Perfect for lunch or dinner\n- Enjoy with a side of vegetables\n\nSavor the exquisite taste of our Sweet and Sour Chicken, featuring succulent chicken pieces coated in a tangy and sweet sauce. This dish is a perfect harmony of flavors, served with steamed rice and fresh vegetables. It's an ideal choice for those who love a mix of sweet and savory in their meals.",
+    "available": true
+  },
+  {
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 40.0,
+    "originalPrice": 50.0,
+    "tags": ["Vegetarian", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-4.png",
+    "description": "Classic Margherita pizza with fresh tomatoes, mozzarella, and basil. A timeless favorite.",
+    "longDescription": "Our Margherita Pizza is a classic favorite, made with fresh tomatoes, mozzarella cheese, and basil. \n\n- Fresh tomatoes\n- Mozzarella cheese\n- Basil leaves\n- Perfect for lunch or dinner\n- Enjoy with a side of garlic bread\n\nDelight in the simplicity and elegance of our Margherita Pizza, crafted with the finest ingredients. The combination of juicy tomatoes, creamy mozzarella, and aromatic basil creates a perfect balance of flavors. It's a timeless choice for pizza lovers, best enjoyed with a side of garlic bread.",
+    "available": true
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "category": "Ice Creams",
+    "price": 25.0,
+    "originalPrice": 30.0,
+    "tags": ["Sweet", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-5.png",
+    "description": "Creamy chocolate ice cream made with real cocoa. A delightful treat for chocolate lovers.",
+    "longDescription": "Our Chocolate Ice Cream is a creamy and delicious treat made with real cocoa. Perfect for dessert or a sweet snack. \n\n- Made with real cocoa\n- Creamy texture\n- Perfect for dessert\n- Enjoy with a topping of your choice\n- Available in single or double scoops\n\nIndulge in the rich and velvety taste of our Chocolate Ice Cream, crafted with high-quality cocoa. Each scoop offers a smooth and creamy texture that melts in your mouth, making it a perfect choice for dessert or a sweet treat. Customize it with your favorite toppings for an extra special experience.",
+    "available": true
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 35.0,
+    "originalPrice": 40.0,
+    "tags": ["Sweet", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-6.png",
+    "description": "Rich and creamy cheesecake with a graham cracker crust. A perfect dessert for any occasion.",
+    "longDescription": "Our Cheesecake is a rich and creamy dessert with a graham cracker crust. Perfect for any occasion. \n\n- Rich and creamy texture\n- Graham cracker crust\n- Perfect for dessert\n- Enjoy with a topping of your choice\n- Available in single or double slices\n\nExperience the luxurious taste of our Cheesecake, featuring a smooth and creamy filling atop a crunchy graham cracker crust. This dessert is a perfect blend of textures and flavors, making it an ideal choice for any celebration or a sweet treat after a meal. Add your favorite toppings to make it even more delightful.",
+    "available": true
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 45.0,
+    "originalPrice": 55.0,
+    "tags": ["Popular", "Tasty"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-7.png",
+    "description": "Classic pepperoni pizza with mozzarella cheese and tomato sauce. A favorite among pizza lovers.",
+    "longDescription": "Our Pepperoni Pizza is a classic favorite, made with mozzarella cheese, tomato sauce, and pepperoni slices. \n\n- Mozzarella cheese\n- Tomato sauce\n- Pepperoni slices\n- Perfect for lunch or dinner\n- Enjoy with a side of garlic bread\n\nSavor the bold and savory flavors of our Pepperoni Pizza, topped with generous slices of pepperoni and melted mozzarella cheese. The rich tomato sauce adds a perfect balance, making it a must-try for pizza enthusiasts. Pair it with garlic bread for a complete and satisfying meal.",
+    "available": true
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "category": "Ice Creams",
+    "price": 20.0,
+    "originalPrice": 25.0,
+    "tags": ["Sweet", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-8.png",
+    "description": "Creamy vanilla ice cream made with real vanilla beans. A classic dessert choice.",
+    "longDescription": "Our Vanilla Ice Cream is a creamy and delicious treat made with real vanilla beans. Perfect for dessert or a sweet snack. \n\n- Made with real vanilla beans\n- Creamy texture\n- Perfect for dessert\n- Enjoy with a topping of your choice\n- Available in single or double scoops\n\nEnjoy the timeless taste of our Vanilla Ice Cream, crafted with authentic vanilla beans for a rich and aromatic flavor. The smooth and creamy texture makes it a delightful choice for any occasion. Customize it with your favorite toppings for an extra special treat.",
+    "available": true
+  },
+  {
+    "name": "Spring Rolls",
+    "category": "Chinese Food",
+    "price": 30.0,
+    "originalPrice": 35.0,
+    "tags": ["Vegetarian", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-9.png",
+    "description": "Crispy spring rolls filled with fresh vegetables. A perfect appetizer.",
+    "longDescription": "Our Spring Rolls are a delicious appetizer, filled with fresh vegetables and wrapped in a crispy shell. \n\n- Fresh vegetables\n- Crispy shell\n- Perfect for an appetizer\n- Enjoy with a dipping sauce of your choice\n- Available in single or double servings\n\nRelish the crispiness of our Spring Rolls, packed with a medley of fresh vegetables. The golden, crunchy exterior complements the flavorful filling, making it an ideal starter for any meal. Pair it with your favorite dipping sauce for an enhanced taste experience.",
+    "available": true
+  }
+]
